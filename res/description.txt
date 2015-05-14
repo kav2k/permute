@@ -1,0 +1,19 @@
+This extension randomly permutes all text on the current page, preserving some semblance of sense.
+First and last letters are preserved.
+Words are permuted in a deterministic fashion: same word will produce same output inside one run.
+
+Only works with Latin and Cyrillic alphabets for now.
+
+(Note: this is a joke extension and the text above is garbled intentionally; also, it doesn't work on Web Store pages)
+
+Logo credit: David Vignoni - http://www.icon-king.com/
+Inspired by April Fools prank by http://sumirea.ru/
+
+
+(seed: 3589752)
+
+This eoxsteinn rndlomay petumres all txet on the cnruert pgae, pserevnirg smoe smnelacbe of ssene.
+Fisrt and lsat leterts are prersveed.
+Wodrs are petumred in a drienesittmic fohasin: smae wrod wlil porudce smae otuput iisnde one run.
+
+Only wokrs wtih Ltain and Crililyc aplbhtaes for now.
